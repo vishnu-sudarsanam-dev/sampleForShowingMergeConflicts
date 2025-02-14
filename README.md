@@ -1,1 +1,1 @@
-sample Remote
+sample Local
